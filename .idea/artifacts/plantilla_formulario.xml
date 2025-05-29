@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="plantilla_formulario">
+    <output-path>$PROJECT_DIR$/out/artifacts/plantilla_formulario</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="plantilla_formulario" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="plantilla_formulario/web/Web" />
+    </root>
+  </artifact>
+</component>
